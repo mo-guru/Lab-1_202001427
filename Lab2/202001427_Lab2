@@ -1,0 +1,38 @@
+#Lab 2
+Needs:
+The needs of the central mess management system will depend on the specific requirements and goals of the system.Some needs that we have recognised are:
+
+Menu Management: Manage and update the menu and food items
+
+Order Management: Receive and process orders from customers
+
+Inventory Management: Manage the inventory of food and supplies
+
+Billing and Payment: Process payments from customers
+
+Customer Management: Manage customer information and preferences
+
+Reporting and Analytics: Generate reports and analyze data to gain insights into customer behavior and preferences and operational and financial performance.
+
+Kitchen Management: Manage and track the production and preparation of food
+
+Delivery Management: Manage the delivery of food to customers
+
+Employee Management: Manage and track employee information
+
+Features:
+1) Users will be able to keep track of stock levels and keep in mind when reordering of such supplies will be needed.
+
+2) The menu will have options for customizations and toppings for the necessary food items.
+
+3) Pre-ordering and ordering in advance will be added as well.
+
+4) Customers will be able to pay through various methods like credit cards or UPI.
+
+5) Options for customer feedback will be provided.
+
+6) Users will be able to monitor cooking times and ensuring food quality.
+
+7) Users will be able to track delivery times to ensure food quality and freshness.
+
+8) Ability to check employee schedule, their training progress and track their performance.
