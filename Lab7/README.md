@@ -700,4 +700,3 @@ c. Basic Condition Coverage:
 - Test 3: p = {new Point(0, 0), new Point(1, 0), new Point(1, 1)}
 - Test 4: p = {new Point(0, 0), new Point(1, 0), new Point(0, 1)}
 - Test 5: p = {new Point(0, 0), new Point(0, 1), new Point(1, 1)}
-```
